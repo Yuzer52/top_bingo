@@ -1,6 +1,3 @@
-Here’s a professional and detailed **README.md** for your Bingo app:
-
-```markdown
 # Bingo Game Application 🎲
 
 A modern and intuitive **Bingo Game Application** built using **Flutter** for desktop platforms. This app is designed to provide an engaging experience with advanced game settings, local database integration, and seamless management for controllers, admins, and players.
