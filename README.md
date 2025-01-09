@@ -91,9 +91,9 @@ A modern and intuitive **Bingo Game Application** built using **Flutter** for de
    ```bash
    flutter run -d windows
    ```
-   5. If you just want to see the application on your desktop please download and run the exe file:
+5. If you just want to see the application on your desktop please download and run the exe file:
    ```bash
-   flutter run -d windows
+   Top Bingo Setup.exe
    ```
 
 ---
